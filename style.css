@@ -1,0 +1,22 @@
+body {
+  background: #020617;
+  color: #e5e7eb;
+  font-family: Arial;
+  padding: 40px;
+}
+
+.settings label {
+  display: block;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px 16px;
+  border: none;
+  background: #ef4444;
+  cursor: pointer;
+}
+
+#msg {
+  margin-top: 10px;
+}
